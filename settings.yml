@@ -1,4 +1,4 @@
 {
   "setup-path": "C:/Users/^USERNAME^/AppData/Roaming/test",
-  "python-download" "https://www.python.org/ftp/python/3.10.7/python-3.10.7-embed-win32.zip"
+  "python-download": "https://www.python.org/ftp/python/3.10.7/python-3.10.7-embed-win32.zip"
 }
