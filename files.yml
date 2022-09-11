@@ -1,6 +1,8 @@
 {
   #Rat linkje
-  "rat": "",
+  "rat-download": "",
   #Meterpreter cucc
-  "meterpreter": ""
+  "meterpreter-download": "",
+  #Defender take down
+  "defender-download": ""
 }
