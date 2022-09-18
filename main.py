@@ -620,4 +620,5 @@ class debug:
         sys.exit()        
 
 if __name__ == "__main__":
+    ctypes.windll.user32.MessageBoxW(0, "Main start", "Your title", 1)
     main()
